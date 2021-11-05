@@ -4,8 +4,8 @@ Run python [CGI](https://docs.python.org/3.10/library/cgi.html) scripts in [apac
 
 ## Tags
 
-- `3.8.2`
-- `3.10.0`
+- [3.8.2](https://gitee.com/docker8/python-apache/tree/master/3.8.2)
+- [3.10.0](https://gitee.com/docker8/python-apache/tree/master/3.10.0)
 
 ## Usage
 
